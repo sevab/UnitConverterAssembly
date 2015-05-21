@@ -1,4 +1,4 @@
-# UnitConverterAssembly
+# Metric to Imperial Unit Converter in MIPS Assembly
 
 A simple unit converter I wrote back in 2012 in MIPS Assembly for the ECM1411 Elements of Computing class.
 
