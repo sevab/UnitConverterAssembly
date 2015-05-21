@@ -1,0 +1,179 @@
+# Demo Script
+
+Which unit conversion would you like me to do?
+
+	   1    Convert Metres (SI) to Feet and Inches (Imperial)
+	   2    Convert Kilograms (SI) to Pounds and Ounces (Imperial)
+	   3    Convert Litres (SI) to Pints (Imperial)
+	   4    Quit
+
+Please, enter the number corresponding to the option next to it:  0
+There is no such option. Enter the number corresponding to the option next to it:  f
+There is no such option. Enter the number corresponding to the option next to it:  1
+
+How many numbers would you like to convert? Enter an integer between 1 and 5:  0
+Sorry, you can't enter more than 5 integers. Please choose a smaller amount:  f
+Sorry, you can't enter more than 5 integers. Please choose a smaller amount:  1
+
+Please enter an integer you would like to convert:  1
+
+============== Your Output: ================ 
+
+1 Meter(s) convert(s) into 3 Feet and 3.37007904 Inches
+
+======================================= 
+
+Your input has been converted! What would you like to do now?
+
+    1    Convert more numbers using the same conversion
+    2    Convert more numbers using other conversion methods
+    3    Quit
+
+Please, enter the number corresponding to the option next to it:  1
+
+How many numbers would you like to convert? Enter an integer between 1 and 5:  2
+
+Please enter an integer you would like to convert:  13
+
+Please enter an integer you would like to convert:  2
+
+============== Your Output: ================ 
+
+13 Meter(s) convert(s) into 42 Feet and 7.81100464 Inches
+2 Meter(s) convert(s) into 6 Feet and 6.74015808 Inches
+
+Total sum of original input values is:  15 Meters
+The mean of original input values is:  7.50000000 Meters
+Total sum of converted values is:  49 Feet and 2.55120850 Inches
+The mean of converted values is:  24.50000000 Feet and 1.27560425 Inches
+======================================= 
+
+Your input has been converted! What would you like to do now?
+
+    1    Convert more numbers using the same conversion
+    2    Convert more numbers using other conversion methods
+    3    Quit
+
+Please, enter the number corresponding to the option next to it:  2
+
+Which unit conversion would you like me to do?
+
+	   1    Convert Metres (SI) to Feet and Inches (Imperial)
+	   2    Convert Kilograms (SI) to Pounds and Ounces (Imperial)
+	   3    Convert Litres (SI) to Pints (Imperial)
+	   4    Quit
+
+Please, enter the number corresponding to the option next to it:  2
+
+How many numbers would you like to convert? Enter an integer between 1 and 5:  5
+
+Please enter an integer you would like to convert:  f
+
+Sorry, the value you've entered is not valid. Please enter an integer you would like to convert:  0
+
+Sorry, the value you've entered is not valid. Please enter an integer you would like to convert:  1
+
+Please enter an integer you would like to convert:  3
+
+Please enter an integer you would like to convert:  4
+
+Please enter an integer you would like to convert:  12
+
+Please enter an integer you would like to convert:  9
+
+============== Your Output: ================ 
+
+1 Kilogram(s) convert(s) into 2 Pounds and 3.27396011 Ounces
+3 Kilogram(s) convert(s) into 6 Pounds and 9.82188416 Ounces
+4 Kilogram(s) convert(s) into 8 Pounds and 13.09584045 Ounces
+12 Kilogram(s) convert(s) into 26 Pounds and 7.28753662 Ounces
+9 Kilogram(s) convert(s) into 19 Pounds and 13.46563721 Ounces
+
+Total sum of original input values is:  29 Kilograms
+The mean of original input values is:  5.80000019 Kilograms
+Total sum of converted values is:  63 Pounds and 14.94482422 Ounces
+The mean of converted values is:  12.60000038 Pounds and 2.98896480 Ounces
+======================================= 
+
+Your input has been converted! What would you like to do now?
+
+    1    Convert more numbers using the same conversion
+    2    Convert more numbers using other conversion methods
+    3    Quit
+
+Please, enter the number corresponding to the option next to it:  2
+
+Which unit conversion would you like me to do?
+
+	   1    Convert Metres (SI) to Feet and Inches (Imperial)
+	   2    Convert Kilograms (SI) to Pounds and Ounces (Imperial)
+	   3    Convert Litres (SI) to Pints (Imperial)
+	   4    Quit
+
+Please, enter the number corresponding to the option next to it:  3
+
+How many numbers would you like to convert? Enter an integer between 1 and 5:  2
+
+Please enter an integer you would like to convert:  2
+
+Please enter an integer you would like to convert:  3
+
+============== Your Output: ================ 
+
+2 Litre(s) convert(s) into 3.51950002 Pints
+3 Litre(s) convert(s) into 5.27925014 Pints
+
+Total sum of original input values is:  5 Litres
+The mean of original input values is:  2.50000000 Litres
+Total sum of converted values is:  8.79874992 Pints
+The mean of converted values is:  4.39937496 Pints
+======================================= 
+
+Your input has been converted! What would you like to do now?
+
+    1    Convert more numbers using the same conversion
+    2    Convert more numbers using other conversion methods
+    3    Quit
+
+Please, enter the number corresponding to the option next to it:  0
+There is no such option. Enter the number corresponding to the option next to it:  f
+There is no such option. Enter the number corresponding to the option next to it:  4
+There is no such option. Enter the number corresponding to the option next to it:  2
+
+
+
+Which unit conversion would you like me to do?
+
+	   1    Convert Metres (SI) to Feet and Inches (Imperial)
+	   2    Convert Kilograms (SI) to Pounds and Ounces (Imperial)
+	   3    Convert Litres (SI) to Pints (Imperial)
+	   4    Quit
+
+Please, enter the number corresponding to the option next to it:  1
+
+How many numbers would you like to convert? Enter an integer between 1 and 5:  2
+
+Please enter an integer you would like to convert:  2454
+
+Please enter an integer you would like to convert:  5014
+
+============== Your Output: ================ 
+
+2454 Meter(s) convert(s) into 8051 Feet and 2.17382812 Inches
+5014 Meter(s) convert(s) into 16450 Feet and 1.57031250 Inches
+
+Total sum of original input values is:  7468 Meters
+The mean of original input values is:  3734.00000000 Meters
+Total sum of converted values is:  24501 Feet and 3.75000000 Inches
+The mean of converted values is:  12250.50000000 Feet and 1.87500000 Inches
+======================================= 
+
+Your input has been converted! What would you like to do now?
+
+    1    Convert more numbers using the same conversion
+    2    Convert more numbers using other conversion methods
+    3    Quit
+
+Please, enter the number corresponding to the option next to it:  3
+
+
